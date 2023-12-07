@@ -1,0 +1,23 @@
+.side-bar {
+  width: 236px;
+  height: 100vh;
+  /* top: 84px; */
+  background-color: white;
+  display: inline-block;
+}
+.side-bar-menu {
+  list-style: none;
+  top: 108px;
+  left: 25px;
+  margin-top: 70px;
+}
+.side-bar-menu li {
+  margin-right: 35px;
+  cursor: pointer;
+  color: #000;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 70px;
+  letter-spacing: 0em;
+  text-align: left;
+}

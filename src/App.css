@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+/* New css */
+
+.Wapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 0 50px;
+  background-color: #ddd;
+}
+
+.form-row {
+  margin-bottom: 20px;
+}
+.form {
+  padding: 100px;
+}
+
+input {
+  width: 300px;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgba(222, 254, 243, 0.598);
+}
+.hi {
+  display: flex;
+}
